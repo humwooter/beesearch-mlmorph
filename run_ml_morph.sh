@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Variables - Update these with your specific paths
-IMAGE_DIR="image-examples"
-TPS_FILE="landmark-examples/tps-example.tps"
+IMAGE_DIR="./bee-image-data/Images/Halictus_farinosus/H_far_fore_images/"
+TPS_FILE="./bee-image-data/Images/TPS\ files/all\ farinosus\ TPS\ \(to\ append\)/"
 
 # Step 1: Preprocessing
 # Splitting images into train and test sets and generating XML files
