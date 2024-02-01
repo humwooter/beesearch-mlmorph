@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables – Update these with your specific paths
-IMAGE_DIR="/path/to/your/image/directory"
+IMAGE_DIR="./bee-image-data/Images/Halictus_farinosus/H_far_fore_images/"
 DETECTOR_MODEL_PATH="detector.svm"
 PREDICTOR_MODEL_PATH="predictor.dat"
 
