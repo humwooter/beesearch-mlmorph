@@ -10,4 +10,9 @@ PREDICTOR_MODEL_PATH="predictor.dat"
 echo "Running prediction using pre-trained models..."
 python3 prediction.py -i "$IMAGE_DIR" -d "$DETECTOR_MODEL_PATH" -p "$PREDICTOR_MODEL_PATH"
 
+# Overlaying landmarks on images
+echo "Overlaying landmarks on images..."
+python3 overlay_landmarks.py
+
 echo "Prediction using pre-trained models completed."
+

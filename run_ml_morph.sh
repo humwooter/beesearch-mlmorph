@@ -1,27 +1,31 @@
 #!/bin/bash
 
-# Variables - Update these with your specific paths
-IMAGE_DIR="./bee-image-data/Images/Halictus_farinosus/H_far_fore_images/"
-TPS_FILE="./bee-image-data/Images/TPS\ files/all\ farinosus\ TPS\ \(to\ append\)/"
+# variables - update these with your specific paths
+image_dir="image-examples"
+tps_file="landmark-examples/tps-example.tps"
 
-# Step 1: Preprocessing
-# Splitting images into train and test sets and generating XML files
-echo "Running preprocessing..."
-python3 preprocessing.py -i "$IMAGE_DIR" -t "$TPS_FILE"
+# step 1: preprocessing
+# splitting images into train and test sets, generating xml files
+echo "running preprocessing..."
+python3 preprocessing.py -i "$image_dir" -t "$tps_file"
 
-# Step 2: Training Object Detectors
-# Training the object detector model
-echo "Training object detector..."
+# step 2: training object detectors
+# training the object detector model
+echo "training object detector..."
 python3 detector_trainer.py -d train.xml -t test.xml
 
-# Step 3: Training Shape Predictors
-# Training the shape predictor model
-echo "Training shape predictor..."
+# step 3: training shape predictors
+# training the shape predictor model
+echo "training shape predictor..."
 python3 shape_trainer.py -d train.xml -t test.xml
 
-# Step 4: Predicting Landmarks
-# Predicting landmarks on new images
-echo "Predicting landmarks..."
+# step 4: predicting landmarks
+# predicting landmarks on new images
+echo "predicting landmarks..."
 python3 prediction.py -i test -d detector.svm -p predictor.dat
+
+# overlaying landmarks on images
+echo "overlaying landmarks on images..."
+python3 overlay_landmarks.py
 
 echo "ml-morph pipeline execution completed."
