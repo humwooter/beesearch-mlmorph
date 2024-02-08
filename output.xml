@@ -3,196 +3,1285 @@
    <name/>
    <comment/>
    <images>
-      <image file="test/63050.jpg">
-         <box top="164" left="95" width="482" height="206">
-            <part name="0" x="299" y="371"/>
-            <part name="1" x="117" y="297"/>
-            <part name="2" x="515" y="208"/>
-            <part name="3" x="538" y="244"/>
-            <part name="4" x="95" y="253"/>
-            <part name="5" x="179" y="164"/>
-            <part name="6" x="482" y="168"/>
-            <part name="7" x="578" y="172"/>
-            <part name="8" x="358" y="307"/>
-            <part name="9" x="350" y="267"/>
-            <part name="10" x="449" y="235"/>
-            <part name="11" x="445" y="220"/>
+      <image file="test/UCSB-IZC00037475-fore-edited.jpg">
+         <box top="65" left="158" width="103" height="104">
+            <part name="0" x="253" y="160"/>
+            <part name="1" x="261" y="135"/>
+            <part name="2" x="223" y="105"/>
+            <part name="3" x="219" y="94"/>
+            <part name="4" x="177" y="82"/>
+            <part name="5" x="158" y="65"/>
+            <part name="6" x="186" y="138"/>
+            <part name="7" x="178" y="156"/>
+            <part name="8" x="180" y="169"/>
          </box>
       </image>
-      <image file="test/63043.jpg">
-         <box top="164" left="95" width="482" height="206">
-            <part name="0" x="299" y="371"/>
-            <part name="1" x="115" y="296"/>
-            <part name="2" x="516" y="207"/>
-            <part name="3" x="537" y="242"/>
-            <part name="4" x="95" y="253"/>
-            <part name="5" x="179" y="165"/>
-            <part name="6" x="481" y="167"/>
-            <part name="7" x="578" y="172"/>
-            <part name="8" x="359" y="306"/>
-            <part name="9" x="351" y="266"/>
-            <part name="10" x="449" y="233"/>
-            <part name="11" x="444" y="219"/>
+      <image file="test/UCSB-IZC00039522_fore_far_i_ed.jpg">
+         <box top="95" left="508" width="310" height="310">
+            <part name="0" x="789" y="390"/>
+            <part name="1" x="819" y="321"/>
+            <part name="2" x="706" y="224"/>
+            <part name="3" x="694" y="189"/>
+            <part name="4" x="561" y="146"/>
+            <part name="5" x="508" y="95"/>
+            <part name="6" x="585" y="317"/>
+            <part name="7" x="559" y="368"/>
+            <part name="8" x="566" y="406"/>
          </box>
       </image>
-      <image file="test/63033.jpg">
-         <box top="164" left="130" width="481" height="206">
-            <part name="0" x="333" y="371"/>
-            <part name="1" x="148" y="293"/>
-            <part name="2" x="546" y="215"/>
-            <part name="3" x="571" y="250"/>
-            <part name="4" x="130" y="247"/>
-            <part name="5" x="216" y="164"/>
-            <part name="6" x="515" y="175"/>
-            <part name="7" x="612" y="181"/>
-            <part name="8" x="392" y="310"/>
-            <part name="9" x="384" y="269"/>
-            <part name="10" x="481" y="239"/>
-            <part name="11" x="477" y="226"/>
+      <image file="test/UCSB-IZC00012434-fore-edited.jpg">
+         <box top="79" left="394" width="258" height="258">
+            <part name="0" x="631" y="318"/>
+            <part name="1" x="653" y="260"/>
+            <part name="2" x="558" y="182"/>
+            <part name="3" x="548" y="153"/>
+            <part name="4" x="439" y="121"/>
+            <part name="5" x="394" y="79"/>
+            <part name="6" x="462" y="263"/>
+            <part name="7" x="442" y="306"/>
+            <part name="8" x="447" y="338"/>
          </box>
       </image>
-      <image file="test/63022.jpg">
-         <box top="130" left="95" width="482" height="206">
-            <part name="0" x="288" y="337"/>
-            <part name="1" x="113" y="260"/>
-            <part name="2" x="510" y="186"/>
-            <part name="3" x="532" y="224"/>
-            <part name="4" x="95" y="214"/>
-            <part name="5" x="174" y="129"/>
-            <part name="6" x="479" y="143"/>
-            <part name="7" x="578" y="153"/>
-            <part name="8" x="352" y="275"/>
-            <part name="9" x="347" y="238"/>
-            <part name="10" x="443" y="208"/>
-            <part name="11" x="440" y="194"/>
+      <image file="test/UCSB-IZC00014942-fore-edited.jpg">
+         <box top="65" left="158" width="103" height="104">
+            <part name="0" x="252" y="163"/>
+            <part name="1" x="261" y="139"/>
+            <part name="2" x="224" y="107"/>
+            <part name="3" x="220" y="96"/>
+            <part name="4" x="176" y="82"/>
+            <part name="5" x="158" y="65"/>
+            <part name="6" x="184" y="139"/>
+            <part name="7" x="176" y="157"/>
+            <part name="8" x="178" y="169"/>
          </box>
       </image>
-      <image file="test/63038.jpg">
-         <box top="156" left="32" width="578" height="248">
-            <part name="0" x="275" y="405"/>
-            <part name="1" x="54" y="307"/>
-            <part name="2" x="535" y="210"/>
-            <part name="3" x="563" y="255"/>
-            <part name="4" x="32" y="252"/>
-            <part name="5" x="131" y="155"/>
-            <part name="6" x="495" y="166"/>
-            <part name="7" x="611" y="169"/>
-            <part name="8" x="343" y="331"/>
-            <part name="9" x="336" y="281"/>
-            <part name="10" x="451" y="242"/>
-            <part name="11" x="446" y="225"/>
+      <image file="test/UCSB-IZC00036054_fore_lig_m_ed.jpg">
+         <box top="113" left="376" width="215" height="215">
+            <part name="0" x="572" y="311"/>
+            <part name="1" x="592" y="262"/>
+            <part name="2" x="513" y="198"/>
+            <part name="3" x="505" y="174"/>
+            <part name="4" x="415" y="148"/>
+            <part name="5" x="376" y="113"/>
+            <part name="6" x="432" y="265"/>
+            <part name="7" x="415" y="302"/>
+            <part name="8" x="421" y="329"/>
          </box>
       </image>
-      <image file="test/63004.jpg">
-         <box top="73" left="32" width="578" height="248">
-            <part name="0" x="274" y="322"/>
-            <part name="1" x="54" y="225"/>
-            <part name="2" x="535" y="135"/>
-            <part name="3" x="565" y="180"/>
-            <part name="4" x="32" y="171"/>
-            <part name="5" x="138" y="73"/>
-            <part name="6" x="495" y="88"/>
-            <part name="7" x="611" y="95"/>
-            <part name="8" x="346" y="250"/>
-            <part name="9" x="340" y="202"/>
-            <part name="10" x="453" y="165"/>
-            <part name="11" x="450" y="148"/>
+      <image file="test/UCSB-IZC00041968_fore_tri_m_ed.jpg">
+         <box top="94" left="273" width="180" height="179">
+            <part name="0" x="442" y="252"/>
+            <part name="1" x="454" y="210"/>
+            <part name="2" x="386" y="159"/>
+            <part name="3" x="380" y="140"/>
+            <part name="4" x="306" y="122"/>
+            <part name="5" x="273" y="94"/>
+            <part name="6" x="325" y="220"/>
+            <part name="7" x="312" y="251"/>
+            <part name="8" x="316" y="274"/>
          </box>
       </image>
-      <image file="test/63010.jpg">
-         <box top="130" left="95" width="482" height="206">
-            <part name="0" x="289" y="337"/>
-            <part name="1" x="113" y="261"/>
-            <part name="2" x="511" y="197"/>
-            <part name="3" x="535" y="236"/>
-            <part name="4" x="95" y="212"/>
-            <part name="5" x="178" y="130"/>
-            <part name="6" x="477" y="156"/>
-            <part name="7" x="578" y="166"/>
-            <part name="8" x="352" y="280"/>
-            <part name="9" x="349" y="245"/>
-            <part name="10" x="444" y="219"/>
-            <part name="11" x="441" y="204"/>
+      <image file="test/UCSB-IZC00012347-fore-edited.jpg">
+         <box top="54" left="141" width="86" height="87">
+            <part name="0" x="219" y="136"/>
+            <part name="1" x="227" y="116"/>
+            <part name="2" x="196" y="89"/>
+            <part name="3" x="193" y="79"/>
+            <part name="4" x="156" y="68"/>
+            <part name="5" x="141" y="54"/>
+            <part name="6" x="163" y="116"/>
+            <part name="7" x="156" y="131"/>
+            <part name="8" x="158" y="141"/>
          </box>
       </image>
-      <image file="test/63005.jpg">
-         <box top="115" left="32" width="578" height="247">
-            <part name="0" x="272" y="363"/>
-            <part name="1" x="56" y="267"/>
-            <part name="2" x="533" y="176"/>
-            <part name="3" x="561" y="220"/>
-            <part name="4" x="32" y="212"/>
-            <part name="5" x="135" y="114"/>
-            <part name="6" x="495" y="126"/>
-            <part name="7" x="611" y="134"/>
-            <part name="8" x="338" y="290"/>
-            <part name="9" x="330" y="241"/>
-            <part name="10" x="454" y="204"/>
-            <part name="11" x="449" y="186"/>
+      <image file="test/UCSB-IZC00030168-fore-edited.jpg">
+         <box top="154" left="293" width="180" height="179">
+            <part name="0" x="461" y="313"/>
+            <part name="1" x="474" y="271"/>
+            <part name="2" x="407" y="220"/>
+            <part name="3" x="400" y="201"/>
+            <part name="4" x="326" y="182"/>
+            <part name="5" x="293" y="154"/>
+            <part name="6" x="344" y="280"/>
+            <part name="7" x="332" y="311"/>
+            <part name="8" x="336" y="334"/>
          </box>
       </image>
-      <image file="test/63012.jpg">
-         <box top="130" left="95" width="482" height="206">
-            <part name="0" x="288" y="337"/>
-            <part name="1" x="112" y="256"/>
-            <part name="2" x="510" y="192"/>
-            <part name="3" x="534" y="229"/>
-            <part name="4" x="95" y="208"/>
-            <part name="5" x="180" y="130"/>
-            <part name="6" x="479" y="149"/>
-            <part name="7" x="578" y="160"/>
-            <part name="8" x="349" y="278"/>
-            <part name="9" x="345" y="241"/>
-            <part name="10" x="444" y="212"/>
-            <part name="11" x="440" y="199"/>
+      <image file="test/UCSB-IZC00042200_fore_tri_m_ed.jpg">
+         <box top="94" left="333" width="179" height="179">
+            <part name="0" x="501" y="253"/>
+            <part name="1" x="513" y="211"/>
+            <part name="2" x="446" y="160"/>
+            <part name="3" x="439" y="141"/>
+            <part name="4" x="365" y="122"/>
+            <part name="5" x="333" y="94"/>
+            <part name="6" x="384" y="220"/>
+            <part name="7" x="372" y="252"/>
+            <part name="8" x="376" y="274"/>
          </box>
       </image>
-      <image file="test/63016.jpg">
-         <box top="156" left="32" width="578" height="248">
-            <part name="0" x="276" y="405"/>
-            <part name="1" x="53" y="306"/>
-            <part name="2" x="535" y="223"/>
-            <part name="3" x="563" y="267"/>
-            <part name="4" x="32" y="253"/>
-            <part name="5" x="141" y="156"/>
-            <part name="6" x="494" y="174"/>
-            <part name="7" x="611" y="182"/>
-            <part name="8" x="343" y="336"/>
-            <part name="9" x="335" y="286"/>
-            <part name="10" x="452" y="251"/>
-            <part name="11" x="449" y="234"/>
+      <image file="test/UCSB-IZC00030060-fore-edited.jpg"/>
+      <image file="test/UCSB-IZC00030269-fore-edited.jpg">
+         <box top="95" left="474" width="309" height="310">
+            <part name="0" x="753" y="388"/>
+            <part name="1" x="784" y="318"/>
+            <part name="2" x="671" y="223"/>
+            <part name="3" x="660" y="187"/>
+            <part name="4" x="529" y="147"/>
+            <part name="5" x="474" y="95"/>
+            <part name="6" x="551" y="316"/>
+            <part name="7" x="525" y="368"/>
+            <part name="8" x="533" y="406"/>
          </box>
       </image>
-      <image file="test/63071.jpg">
-         <box top="156" left="32" width="578" height="248">
-            <part name="0" x="272" y="405"/>
-            <part name="1" x="54" y="310"/>
-            <part name="2" x="535" y="212"/>
-            <part name="3" x="563" y="257"/>
-            <part name="4" x="32" y="256"/>
-            <part name="5" x="129" y="155"/>
-            <part name="6" x="496" y="163"/>
-            <part name="7" x="611" y="171"/>
-            <part name="8" x="345" y="329"/>
-            <part name="9" x="336" y="280"/>
-            <part name="10" x="454" y="243"/>
-            <part name="11" x="449" y="225"/>
+      <image file="test/UCSB-IZC00037253_fore_lig_m_ed.jpg">
+         <box top="79" left="394" width="258" height="258">
+            <part name="0" x="627" y="322"/>
+            <part name="1" x="653" y="264"/>
+            <part name="2" x="559" y="184"/>
+            <part name="3" x="549" y="155"/>
+            <part name="4" x="441" y="122"/>
+            <part name="5" x="394" y="79"/>
+            <part name="6" x="458" y="262"/>
+            <part name="7" x="436" y="305"/>
+            <part name="8" x="444" y="338"/>
          </box>
       </image>
-      <image file="test/63049.jpg">
-         <box top="164" left="95" width="482" height="206">
-            <part name="0" x="296" y="371"/>
-            <part name="1" x="116" y="296"/>
-            <part name="2" x="513" y="208"/>
-            <part name="3" x="538" y="247"/>
-            <part name="4" x="95" y="248"/>
-            <part name="5" x="173" y="164"/>
-            <part name="6" x="479" y="166"/>
-            <part name="7" x="578" y="171"/>
-            <part name="8" x="355" y="307"/>
-            <part name="9" x="348" y="267"/>
-            <part name="10" x="446" y="234"/>
-            <part name="11" x="442" y="220"/>
+      <image file="test/UCSB-IZC00012359-fore-edited.jpg">
+         <box top="79" left="394" width="258" height="258">
+            <part name="0" x="636" y="306"/>
+            <part name="1" x="653" y="244"/>
+            <part name="2" x="557" y="173"/>
+            <part name="3" x="547" y="145"/>
+            <part name="4" x="442" y="120"/>
+            <part name="5" x="394" y="79"/>
+            <part name="6" x="469" y="260"/>
+            <part name="7" x="452" y="306"/>
+            <part name="8" x="458" y="338"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00042863_fore_tri_i_ed.jpg">
+         <box top="90" left="328" width="215" height="215">
+            <part name="0" x="532" y="276"/>
+            <part name="1" x="544" y="225"/>
+            <part name="2" x="463" y="166"/>
+            <part name="3" x="455" y="143"/>
+            <part name="4" x="367" y="123"/>
+            <part name="5" x="328" y="90"/>
+            <part name="6" x="393" y="242"/>
+            <part name="7" x="380" y="280"/>
+            <part name="8" x="384" y="306"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00030067-fore-edited.jpg">
+         <box top="112" left="150" width="87" height="86">
+            <part name="0" x="231" y="189"/>
+            <part name="1" x="237" y="169"/>
+            <part name="2" x="205" y="144"/>
+            <part name="3" x="202" y="135"/>
+            <part name="4" x="166" y="126"/>
+            <part name="5" x="150" y="112"/>
+            <part name="6" x="174" y="173"/>
+            <part name="7" x="168" y="188"/>
+            <part name="8" x="170" y="198"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00012006-fore-edited.jpg">
+         <box top="94" left="273" width="180" height="179">
+            <part name="0" x="437" y="259"/>
+            <part name="1" x="454" y="218"/>
+            <part name="2" x="388" y="165"/>
+            <part name="3" x="381" y="145"/>
+            <part name="4" x="307" y="124"/>
+            <part name="5" x="273" y="94"/>
+            <part name="6" x="320" y="221"/>
+            <part name="7" x="305" y="251"/>
+            <part name="8" x="310" y="274"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00036745_fore_far_i_ed.jpg">
+         <box top="130" left="577" width="309" height="309">
+            <part name="0" x="867" y="402"/>
+            <part name="1" x="887" y="329"/>
+            <part name="2" x="772" y="243"/>
+            <part name="3" x="761" y="209"/>
+            <part name="4" x="634" y="179"/>
+            <part name="5" x="577" y="130"/>
+            <part name="6" x="667" y="348"/>
+            <part name="7" x="646" y="402"/>
+            <part name="8" x="653" y="440"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00012335-fore-edited.jpg">
+         <box top="54" left="160" width="86" height="87">
+            <part name="0" x="239" y="134"/>
+            <part name="1" x="246" y="113"/>
+            <part name="2" x="215" y="88"/>
+            <part name="3" x="211" y="78"/>
+            <part name="4" x="176" y="68"/>
+            <part name="5" x="160" y="54"/>
+            <part name="6" x="183" y="116"/>
+            <part name="7" x="176" y="130"/>
+            <part name="8" x="179" y="141"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00030539-fore-edited.jpg"/>
+      <image file="test/UCSB-IZC00037374-fore-edited.jpg">
+         <box top="185" left="328" width="215" height="215">
+            <part name="0" x="529" y="377"/>
+            <part name="1" x="544" y="327"/>
+            <part name="2" x="464" y="266"/>
+            <part name="3" x="456" y="242"/>
+            <part name="4" x="367" y="219"/>
+            <part name="5" x="328" y="185"/>
+            <part name="6" x="389" y="337"/>
+            <part name="7" x="374" y="374"/>
+            <part name="8" x="379" y="401"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00036945_fore_tri_i_ed.jpg">
+         <box top="114" left="273" width="180" height="179">
+            <part name="0" x="441" y="272"/>
+            <part name="1" x="454" y="230"/>
+            <part name="2" x="387" y="180"/>
+            <part name="3" x="380" y="160"/>
+            <part name="4" x="307" y="143"/>
+            <part name="5" x="273" y="114"/>
+            <part name="6" x="324" y="240"/>
+            <part name="7" x="312" y="271"/>
+            <part name="8" x="316" y="294"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00030461-fore-edited.jpg">
+         <box top="154" left="313" width="179" height="179">
+            <part name="0" x="481" y="311"/>
+            <part name="1" x="493" y="269"/>
+            <part name="2" x="426" y="219"/>
+            <part name="3" x="419" y="200"/>
+            <part name="4" x="347" y="182"/>
+            <part name="5" x="313" y="154"/>
+            <part name="6" x="364" y="280"/>
+            <part name="7" x="352" y="311"/>
+            <part name="8" x="357" y="334"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00036774_fore_tri_i_ed.jpg">
+         <box top="114" left="313" width="179" height="179">
+            <part name="0" x="482" y="271"/>
+            <part name="1" x="493" y="229"/>
+            <part name="2" x="426" y="179"/>
+            <part name="3" x="419" y="160"/>
+            <part name="4" x="346" y="142"/>
+            <part name="5" x="313" y="114"/>
+            <part name="6" x="365" y="240"/>
+            <part name="7" x="353" y="272"/>
+            <part name="8" x="357" y="294"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00022218-fore-edited.jpg">
+         <box top="114" left="313" width="179" height="179">
+            <part name="0" x="480" y="274"/>
+            <part name="1" x="493" y="233"/>
+            <part name="2" x="426" y="181"/>
+            <part name="3" x="420" y="162"/>
+            <part name="4" x="346" y="143"/>
+            <part name="5" x="313" y="114"/>
+            <part name="6" x="363" y="240"/>
+            <part name="7" x="350" y="272"/>
+            <part name="8" x="355" y="294"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00015171-fore-edited.jpg">
+         <box top="64" left="150" width="87" height="86">
+            <part name="0" x="232" y="139"/>
+            <part name="1" x="237" y="119"/>
+            <part name="2" x="205" y="95"/>
+            <part name="3" x="202" y="86"/>
+            <part name="4" x="166" y="78"/>
+            <part name="5" x="150" y="64"/>
+            <part name="6" x="176" y="124"/>
+            <part name="7" x="170" y="140"/>
+            <part name="8" x="172" y="150"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00012424-fore-edited.jpg">
+         <box top="114" left="313" width="179" height="179">
+            <part name="0" x="483" y="269"/>
+            <part name="1" x="493" y="226"/>
+            <part name="2" x="426" y="177"/>
+            <part name="3" x="419" y="159"/>
+            <part name="4" x="346" y="142"/>
+            <part name="5" x="313" y="114"/>
+            <part name="6" x="366" y="240"/>
+            <part name="7" x="355" y="272"/>
+            <part name="8" x="359" y="294"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00028329-fore-edited.jpg">
+         <box top="77" left="146" width="104" height="104">
+            <part name="0" x="243" y="169"/>
+            <part name="1" x="250" y="144"/>
+            <part name="2" x="212" y="115"/>
+            <part name="3" x="208" y="104"/>
+            <part name="4" x="166" y="94"/>
+            <part name="5" x="146" y="77"/>
+            <part name="6" x="176" y="150"/>
+            <part name="7" x="169" y="168"/>
+            <part name="8" x="171" y="181"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00012463-fore-edited.jpg"/>
+      <image file="test/UCSB-IZC00012008-fore-edited.jpg">
+         <box top="78" left="228" width="149" height="150">
+            <part name="0" x="365" y="214"/>
+            <part name="1" x="378" y="179"/>
+            <part name="2" x="323" y="136"/>
+            <part name="3" x="317" y="119"/>
+            <part name="4" x="255" y="102"/>
+            <part name="5" x="228" y="78"/>
+            <part name="6" x="269" y="184"/>
+            <part name="7" x="258" y="210"/>
+            <part name="8" x="262" y="229"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00037375-fore-edited.jpg">
+         <box top="154" left="313" width="179" height="179">
+            <part name="0" x="482" y="309"/>
+            <part name="1" x="493" y="267"/>
+            <part name="2" x="426" y="218"/>
+            <part name="3" x="419" y="199"/>
+            <part name="4" x="347" y="182"/>
+            <part name="5" x="313" y="154"/>
+            <part name="6" x="366" y="280"/>
+            <part name="7" x="355" y="311"/>
+            <part name="8" x="359" y="334"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00042185_fore_tri_m_ed.jpg">
+         <box top="90" left="305" width="215" height="215">
+            <part name="0" x="500" y="290"/>
+            <part name="1" x="521" y="241"/>
+            <part name="2" x="442" y="177"/>
+            <part name="3" x="434" y="152"/>
+            <part name="4" x="345" y="126"/>
+            <part name="5" x="305" y="90"/>
+            <part name="6" x="360" y="243"/>
+            <part name="7" x="343" y="279"/>
+            <part name="8" x="349" y="306"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00036688-fore-edited.jpg"/>
+      <image file="test/UCSB-IZC00012448-fore-edited.jpg">
+         <box top="79" left="394" width="258" height="258">
+            <part name="0" x="636" y="307"/>
+            <part name="1" x="653" y="247"/>
+            <part name="2" x="557" y="174"/>
+            <part name="3" x="547" y="146"/>
+            <part name="4" x="441" y="120"/>
+            <part name="5" x="394" y="79"/>
+            <part name="6" x="468" y="261"/>
+            <part name="7" x="451" y="306"/>
+            <part name="8" x="456" y="338"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00039939_fore_tri_i_ed.jpg">
+         <box top="90" left="305" width="215" height="215">
+            <part name="0" x="501" y="288"/>
+            <part name="1" x="521" y="238"/>
+            <part name="2" x="442" y="174"/>
+            <part name="3" x="434" y="150"/>
+            <part name="4" x="345" y="125"/>
+            <part name="5" x="305" y="90"/>
+            <part name="6" x="362" y="242"/>
+            <part name="7" x="345" y="279"/>
+            <part name="8" x="350" y="306"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00041576_fore_tri_i_ed.jpg">
+         <box top="94" left="353" width="179" height="179">
+            <part name="0" x="521" y="254"/>
+            <part name="1" x="533" y="212"/>
+            <part name="2" x="466" y="160"/>
+            <part name="3" x="459" y="141"/>
+            <part name="4" x="384" y="122"/>
+            <part name="5" x="353" y="94"/>
+            <part name="6" x="404" y="220"/>
+            <part name="7" x="392" y="252"/>
+            <part name="8" x="395" y="274"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00039475_fore_tri_i_ed.jpg">
+         <box top="90" left="233" width="215" height="215">
+            <part name="0" x="432" y="286"/>
+            <part name="1" x="449" y="236"/>
+            <part name="2" x="369" y="172"/>
+            <part name="3" x="361" y="149"/>
+            <part name="4" x="272" y="125"/>
+            <part name="5" x="233" y="90"/>
+            <part name="6" x="291" y="242"/>
+            <part name="7" x="274" y="279"/>
+            <part name="8" x="279" y="306"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00037110_fore_tri_i_ed.jpg">
+         <box top="90" left="305" width="215" height="215">
+            <part name="0" x="505" y="282"/>
+            <part name="1" x="521" y="232"/>
+            <part name="2" x="441" y="170"/>
+            <part name="3" x="433" y="147"/>
+            <part name="4" x="345" y="124"/>
+            <part name="5" x="305" y="90"/>
+            <part name="6" x="365" y="242"/>
+            <part name="7" x="350" y="279"/>
+            <part name="8" x="355" y="306"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00039427_fore_tri_i_ed.jpg">
+         <box top="94" left="313" width="179" height="179">
+            <part name="0" x="479" y="256"/>
+            <part name="1" x="493" y="215"/>
+            <part name="2" x="426" y="163"/>
+            <part name="3" x="420" y="143"/>
+            <part name="4" x="345" y="123"/>
+            <part name="5" x="313" y="94"/>
+            <part name="6" x="363" y="221"/>
+            <part name="7" x="349" y="252"/>
+            <part name="8" x="353" y="274"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00041931_fore_lig_m_ed.jpg">
+         <box top="79" left="366" width="258" height="258">
+            <part name="0" x="602" y="318"/>
+            <part name="1" x="625" y="259"/>
+            <part name="2" x="530" y="182"/>
+            <part name="3" x="521" y="152"/>
+            <part name="4" x="412" y="121"/>
+            <part name="5" x="366" y="79"/>
+            <part name="6" x="435" y="263"/>
+            <part name="7" x="415" y="307"/>
+            <part name="8" x="421" y="338"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00030505-fore-right-edited.jpg">
+         <box top="134" left="293" width="180" height="179">
+            <part name="0" x="463" y="292"/>
+            <part name="1" x="474" y="250"/>
+            <part name="2" x="407" y="200"/>
+            <part name="3" x="400" y="180"/>
+            <part name="4" x="325" y="162"/>
+            <part name="5" x="293" y="134"/>
+            <part name="6" x="346" y="261"/>
+            <part name="7" x="334" y="292"/>
+            <part name="8" x="338" y="314"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00030405-fore-edited.jpg">
+         <box top="154" left="293" width="180" height="179">
+            <part name="0" x="460" y="316"/>
+            <part name="1" x="474" y="274"/>
+            <part name="2" x="407" y="221"/>
+            <part name="3" x="400" y="203"/>
+            <part name="4" x="325" y="183"/>
+            <part name="5" x="293" y="154"/>
+            <part name="6" x="342" y="280"/>
+            <part name="7" x="329" y="311"/>
+            <part name="8" x="333" y="334"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00036000_fore_lig_m_ed.jpg">
+         <box top="113" left="424" width="215" height="215">
+            <part name="0" x="622" y="307"/>
+            <part name="1" x="640" y="257"/>
+            <part name="2" x="560" y="195"/>
+            <part name="3" x="552" y="171"/>
+            <part name="4" x="465" y="148"/>
+            <part name="5" x="424" y="113"/>
+            <part name="6" x="483" y="265"/>
+            <part name="7" x="467" y="302"/>
+            <part name="8" x="473" y="329"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00039390_fore_tri_i_ed.jpg">
+         <box top="90" left="328" width="215" height="215">
+            <part name="0" x="531" y="279"/>
+            <part name="1" x="544" y="228"/>
+            <part name="2" x="463" y="168"/>
+            <part name="3" x="455" y="145"/>
+            <part name="4" x="367" y="124"/>
+            <part name="5" x="328" y="90"/>
+            <part name="6" x="391" y="241"/>
+            <part name="7" x="377" y="279"/>
+            <part name="8" x="381" y="306"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00012024-fore-edited.jpg">
+         <box top="64" left="170" width="86" height="86">
+            <part name="0" x="251" y="141"/>
+            <part name="1" x="256" y="121"/>
+            <part name="2" x="224" y="96"/>
+            <part name="3" x="221" y="87"/>
+            <part name="4" x="185" y="78"/>
+            <part name="5" x="170" y="64"/>
+            <part name="6" x="195" y="125"/>
+            <part name="7" x="189" y="140"/>
+            <part name="8" x="190" y="150"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00036897-fore-right-edited.jpg">
+         <box top="161" left="305" width="215" height="215">
+            <part name="0" x="500" y="365"/>
+            <part name="1" x="521" y="317"/>
+            <part name="2" x="442" y="250"/>
+            <part name="3" x="434" y="225"/>
+            <part name="4" x="342" y="197"/>
+            <part name="5" x="305" y="161"/>
+            <part name="6" x="359" y="315"/>
+            <part name="7" x="340" y="351"/>
+            <part name="8" x="345" y="377"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00037323-fore-edited.jpg">
+         <box top="174" left="313" width="179" height="179">
+            <part name="0" x="482" y="330"/>
+            <part name="1" x="493" y="288"/>
+            <part name="2" x="426" y="238"/>
+            <part name="3" x="419" y="219"/>
+            <part name="4" x="346" y="202"/>
+            <part name="5" x="313" y="174"/>
+            <part name="6" x="366" y="300"/>
+            <part name="7" x="354" y="332"/>
+            <part name="8" x="358" y="354"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00042352_fore_tri_i_ed.jpg">
+         <box top="66" left="281" width="215" height="215">
+            <part name="0" x="476" y="267"/>
+            <part name="1" x="497" y="218"/>
+            <part name="2" x="418" y="152"/>
+            <part name="3" x="410" y="128"/>
+            <part name="4" x="320" y="102"/>
+            <part name="5" x="281" y="66"/>
+            <part name="6" x="335" y="218"/>
+            <part name="7" x="318" y="255"/>
+            <part name="8" x="323" y="282"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00036860_fore_far_i_ed.jpg">
+         <box top="95" left="508" width="310" height="310">
+            <part name="0" x="795" y="377"/>
+            <part name="1" x="819" y="305"/>
+            <part name="2" x="704" y="214"/>
+            <part name="3" x="693" y="180"/>
+            <part name="4" x="564" y="145"/>
+            <part name="5" x="508" y="95"/>
+            <part name="6" x="593" y="314"/>
+            <part name="7" x="569" y="368"/>
+            <part name="8" x="576" y="406"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00030508-fore-edited.jpg">
+         <box top="134" left="333" width="179" height="179">
+            <part name="0" x="498" y="299"/>
+            <part name="1" x="513" y="259"/>
+            <part name="2" x="447" y="205"/>
+            <part name="3" x="440" y="185"/>
+            <part name="4" x="364" y="163"/>
+            <part name="5" x="333" y="134"/>
+            <part name="6" x="380" y="261"/>
+            <part name="7" x="366" y="292"/>
+            <part name="8" x="370" y="314"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00012196-fore-edited.jpg">
+         <box top="64" left="160" width="86" height="86">
+            <part name="0" x="240" y="141"/>
+            <part name="1" x="246" y="121"/>
+            <part name="2" x="214" y="96"/>
+            <part name="3" x="211" y="87"/>
+            <part name="4" x="176" y="78"/>
+            <part name="5" x="160" y="64"/>
+            <part name="6" x="184" y="125"/>
+            <part name="7" x="178" y="139"/>
+            <part name="8" x="180" y="150"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00037027-fore-edited.jpg">
+         <box top="79" left="394" width="258" height="258">
+            <part name="0" x="629" y="317"/>
+            <part name="1" x="653" y="258"/>
+            <part name="2" x="558" y="182"/>
+            <part name="3" x="549" y="152"/>
+            <part name="4" x="441" y="121"/>
+            <part name="5" x="394" y="79"/>
+            <part name="6" x="462" y="262"/>
+            <part name="7" x="442" y="306"/>
+            <part name="8" x="448" y="338"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00042889_fore_tri_i_ed.jpg">
+         <box top="94" left="333" width="179" height="179">
+            <part name="0" x="500" y="254"/>
+            <part name="1" x="513" y="212"/>
+            <part name="2" x="446" y="161"/>
+            <part name="3" x="439" y="141"/>
+            <part name="4" x="366" y="123"/>
+            <part name="5" x="333" y="94"/>
+            <part name="6" x="383" y="220"/>
+            <part name="7" x="370" y="251"/>
+            <part name="8" x="375" y="274"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00042191_fore_tri_m_ed.jpg">
+         <box top="94" left="293" width="180" height="179">
+            <part name="0" x="456" y="262"/>
+            <part name="1" x="474" y="222"/>
+            <part name="2" x="408" y="167"/>
+            <part name="3" x="401" y="146"/>
+            <part name="4" x="325" y="124"/>
+            <part name="5" x="293" y="94"/>
+            <part name="6" x="339" y="222"/>
+            <part name="7" x="324" y="251"/>
+            <part name="8" x="328" y="274"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00035950_fore_lig_m_ed.jpg">
+         <box top="108" left="423" width="258" height="258">
+            <part name="0" x="666" y="332"/>
+            <part name="1" x="682" y="271"/>
+            <part name="2" x="586" y="201"/>
+            <part name="3" x="576" y="173"/>
+            <part name="4" x="471" y="149"/>
+            <part name="5" x="423" y="108"/>
+            <part name="6" x="500" y="290"/>
+            <part name="7" x="483" y="335"/>
+            <part name="8" x="489" y="367"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00030373-fore-edited.jpg">
+         <box top="113" left="281" width="215" height="215">
+            <part name="0" x="475" y="314"/>
+            <part name="1" x="497" y="266"/>
+            <part name="2" x="418" y="201"/>
+            <part name="3" x="410" y="176"/>
+            <part name="4" x="320" y="149"/>
+            <part name="5" x="281" y="113"/>
+            <part name="6" x="336" y="266"/>
+            <part name="7" x="318" y="302"/>
+            <part name="8" x="324" y="329"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00039378_fore_tri_i_ed.jpg">
+         <box top="94" left="333" width="179" height="179">
+            <part name="0" x="501" y="252"/>
+            <part name="1" x="513" y="210"/>
+            <part name="2" x="446" y="159"/>
+            <part name="3" x="439" y="140"/>
+            <part name="4" x="366" y="122"/>
+            <part name="5" x="333" y="94"/>
+            <part name="6" x="385" y="220"/>
+            <part name="7" x="373" y="252"/>
+            <part name="8" x="377" y="274"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00012037-fore-edited.jpg">
+         <box top="64" left="150" width="87" height="86">
+            <part name="0" x="232" y="140"/>
+            <part name="1" x="237" y="119"/>
+            <part name="2" x="205" y="95"/>
+            <part name="3" x="202" y="86"/>
+            <part name="4" x="166" y="78"/>
+            <part name="5" x="150" y="64"/>
+            <part name="6" x="175" y="124"/>
+            <part name="7" x="169" y="140"/>
+            <part name="8" x="171" y="150"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00037137_fore_far_i_ed.jpg">
+         <box top="95" left="474" width="309" height="310">
+            <part name="0" x="765" y="368"/>
+            <part name="1" x="784" y="295"/>
+            <part name="2" x="669" y="208"/>
+            <part name="3" x="657" y="175"/>
+            <part name="4" x="530" y="144"/>
+            <part name="5" x="474" y="95"/>
+            <part name="6" x="564" y="313"/>
+            <part name="7" x="543" y="368"/>
+            <part name="8" x="550" y="406"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00036501_fore_lig_m_right_ed.jpg">
+         <box top="108" left="452" width="258" height="258">
+            <part name="0" x="684" y="354"/>
+            <part name="1" x="711" y="296"/>
+            <part name="2" x="617" y="216"/>
+            <part name="3" x="607" y="186"/>
+            <part name="4" x="498" y="151"/>
+            <part name="5" x="452" y="108"/>
+            <part name="6" x="516" y="292"/>
+            <part name="7" x="493" y="335"/>
+            <part name="8" x="500" y="367"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00030123-fore-edited.jpg">
+         <box top="90" left="305" width="215" height="215">
+            <part name="0" x="496" y="297"/>
+            <part name="1" x="521" y="249"/>
+            <part name="2" x="443" y="182"/>
+            <part name="3" x="435" y="156"/>
+            <part name="4" x="343" y="126"/>
+            <part name="5" x="305" y="90"/>
+            <part name="6" x="356" y="244"/>
+            <part name="7" x="337" y="279"/>
+            <part name="8" x="343" y="306"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00039412-fore-edited.jpg"/>
+      <image file="test/UCSB-IZC00042844_fore_tri_i_ed.jpg">
+         <box top="94" left="273" width="180" height="179">
+            <part name="0" x="436" y="264"/>
+            <part name="1" x="454" y="224"/>
+            <part name="2" x="388" y="168"/>
+            <part name="3" x="381" y="148"/>
+            <part name="4" x="304" y="124"/>
+            <part name="5" x="273" y="94"/>
+            <part name="6" x="318" y="221"/>
+            <part name="7" x="302" y="252"/>
+            <part name="8" x="306" y="274"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00040298_fore_tri_i_ed.jpg">
+         <box top="114" left="353" width="179" height="179">
+            <part name="0" x="520" y="273"/>
+            <part name="1" x="533" y="232"/>
+            <part name="2" x="466" y="181"/>
+            <part name="3" x="460" y="161"/>
+            <part name="4" x="386" y="143"/>
+            <part name="5" x="353" y="114"/>
+            <part name="6" x="404" y="240"/>
+            <part name="7" x="391" y="272"/>
+            <part name="8" x="396" y="294"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00036955_fore_far_i_ed.jpg">
+         <box top="115" left="527" width="372" height="371">
+            <part name="0" x="870" y="452"/>
+            <part name="1" x="901" y="366"/>
+            <part name="2" x="763" y="257"/>
+            <part name="3" x="749" y="217"/>
+            <part name="4" x="595" y="175"/>
+            <part name="5" x="527" y="115"/>
+            <part name="6" x="628" y="377"/>
+            <part name="7" x="600" y="441"/>
+            <part name="8" x="608" y="488"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00012030-fore-edited.jpg">
+         <box top="42" left="146" width="104" height="104">
+            <part name="0" x="242" y="138"/>
+            <part name="1" x="250" y="114"/>
+            <part name="2" x="212" y="82"/>
+            <part name="3" x="208" y="71"/>
+            <part name="4" x="165" y="59"/>
+            <part name="5" x="146" y="42"/>
+            <part name="6" x="173" y="115"/>
+            <part name="7" x="165" y="133"/>
+            <part name="8" x="168" y="146"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00034801-fore-edited.jpg">
+         <box top="79" left="394" width="258" height="258">
+            <part name="0" x="637" y="305"/>
+            <part name="1" x="653" y="244"/>
+            <part name="2" x="557" y="172"/>
+            <part name="3" x="547" y="145"/>
+            <part name="4" x="442" y="120"/>
+            <part name="5" x="394" y="79"/>
+            <part name="6" x="469" y="260"/>
+            <part name="7" x="452" y="306"/>
+            <part name="8" x="458" y="338"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00037497-fore-edited.jpg">
+         <box top="154" left="313" width="179" height="179">
+            <part name="0" x="482" y="312"/>
+            <part name="1" x="493" y="270"/>
+            <part name="2" x="426" y="220"/>
+            <part name="3" x="419" y="201"/>
+            <part name="4" x="345" y="182"/>
+            <part name="5" x="313" y="154"/>
+            <part name="6" x="365" y="280"/>
+            <part name="7" x="353" y="312"/>
+            <part name="8" x="357" y="334"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00012437-fore-edited.jpg">
+         <box top="79" left="394" width="258" height="258">
+            <part name="0" x="630" y="320"/>
+            <part name="1" x="653" y="262"/>
+            <part name="2" x="558" y="183"/>
+            <part name="3" x="549" y="154"/>
+            <part name="4" x="439" y="121"/>
+            <part name="5" x="394" y="79"/>
+            <part name="6" x="461" y="263"/>
+            <part name="7" x="440" y="306"/>
+            <part name="8" x="446" y="338"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00003556-fore-edited.jpg">
+         <box top="79" left="452" width="258" height="258">
+            <part name="0" x="691" y="314"/>
+            <part name="1" x="711" y="255"/>
+            <part name="2" x="615" y="178"/>
+            <part name="3" x="606" y="150"/>
+            <part name="4" x="498" y="120"/>
+            <part name="5" x="452" y="79"/>
+            <part name="6" x="522" y="261"/>
+            <part name="7" x="503" y="306"/>
+            <part name="8" x="508" y="338"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00036708-fore-edited.jpg"/>
+      <image file="test/UCSB-IZC00041854_fore_tri_i_ed.jpg">
+         <box top="94" left="293" width="180" height="179">
+            <part name="0" x="459" y="256"/>
+            <part name="1" x="474" y="215"/>
+            <part name="2" x="407" y="163"/>
+            <part name="3" x="400" y="143"/>
+            <part name="4" x="326" y="123"/>
+            <part name="5" x="293" y="94"/>
+            <part name="6" x="342" y="221"/>
+            <part name="7" x="328" y="251"/>
+            <part name="8" x="333" y="274"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00037283_fore_tri_i_ed.jpg">
+         <box top="90" left="281" width="215" height="215">
+            <part name="0" x="484" y="276"/>
+            <part name="1" x="497" y="224"/>
+            <part name="2" x="416" y="166"/>
+            <part name="3" x="408" y="143"/>
+            <part name="4" x="322" y="124"/>
+            <part name="5" x="281" y="90"/>
+            <part name="6" x="345" y="241"/>
+            <part name="7" x="331" y="279"/>
+            <part name="8" x="336" y="306"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00037267_fore_tri_i_ed.jpg">
+         <box top="90" left="328" width="215" height="215">
+            <part name="0" x="528" y="284"/>
+            <part name="1" x="544" y="234"/>
+            <part name="2" x="464" y="171"/>
+            <part name="3" x="456" y="148"/>
+            <part name="4" x="367" y="124"/>
+            <part name="5" x="328" y="90"/>
+            <part name="6" x="388" y="242"/>
+            <part name="7" x="372" y="279"/>
+            <part name="8" x="377" y="306"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00042875_fore_tri_i_ed.jpg">
+         <box top="94" left="273" width="180" height="179">
+            <part name="0" x="437" y="261"/>
+            <part name="1" x="454" y="221"/>
+            <part name="2" x="387" y="166"/>
+            <part name="3" x="381" y="146"/>
+            <part name="4" x="305" y="123"/>
+            <part name="5" x="273" y="94"/>
+            <part name="6" x="319" y="221"/>
+            <part name="7" x="305" y="252"/>
+            <part name="8" x="309" y="274"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00035659-fore-edited.jpg">
+         <box top="42" left="146" width="104" height="104">
+            <part name="0" x="242" y="139"/>
+            <part name="1" x="250" y="115"/>
+            <part name="2" x="212" y="83"/>
+            <part name="3" x="208" y="72"/>
+            <part name="4" x="164" y="59"/>
+            <part name="5" x="146" y="42"/>
+            <part name="6" x="173" y="116"/>
+            <part name="7" x="165" y="134"/>
+            <part name="8" x="167" y="146"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00042780_fore_lig_m_ed.jpg">
+         <box top="95" left="474" width="309" height="310">
+            <part name="0" x="761" y="375"/>
+            <part name="1" x="784" y="303"/>
+            <part name="2" x="670" y="214"/>
+            <part name="3" x="658" y="179"/>
+            <part name="4" x="529" y="145"/>
+            <part name="5" x="474" y="95"/>
+            <part name="6" x="560" y="315"/>
+            <part name="7" x="537" y="368"/>
+            <part name="8" x="544" y="406"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00030111-fore-edited.jpg">
+         <box top="185" left="281" width="215" height="215">
+            <part name="0" x="473" y="393"/>
+            <part name="1" x="497" y="345"/>
+            <part name="2" x="419" y="277"/>
+            <part name="3" x="411" y="252"/>
+            <part name="4" x="319" y="221"/>
+            <part name="5" x="281" y="185"/>
+            <part name="6" x="332" y="339"/>
+            <part name="7" x="312" y="374"/>
+            <part name="8" x="318" y="401"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00030019-fore-edited.jpg">
+         <box top="174" left="313" width="179" height="179">
+            <part name="0" x="480" y="332"/>
+            <part name="1" x="493" y="289"/>
+            <part name="2" x="426" y="239"/>
+            <part name="3" x="419" y="220"/>
+            <part name="4" x="347" y="203"/>
+            <part name="5" x="313" y="174"/>
+            <part name="6" x="364" y="300"/>
+            <part name="7" x="352" y="331"/>
+            <part name="8" x="356" y="354"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00037342-fore-edited.jpg">
+         <box top="154" left="313" width="179" height="179">
+            <part name="0" x="480" y="313"/>
+            <part name="1" x="493" y="271"/>
+            <part name="2" x="426" y="220"/>
+            <part name="3" x="419" y="201"/>
+            <part name="4" x="346" y="183"/>
+            <part name="5" x="313" y="154"/>
+            <part name="6" x="364" y="280"/>
+            <part name="7" x="351" y="311"/>
+            <part name="8" x="356" y="334"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00043015_fore_tri_i_ed.jpg">
+         <box top="90" left="328" width="215" height="215">
+            <part name="0" x="525" y="288"/>
+            <part name="1" x="544" y="239"/>
+            <part name="2" x="464" y="174"/>
+            <part name="3" x="456" y="151"/>
+            <part name="4" x="366" y="125"/>
+            <part name="5" x="328" y="90"/>
+            <part name="6" x="385" y="242"/>
+            <part name="7" x="368" y="279"/>
+            <part name="8" x="373" y="306"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00037371-fore-edited.jpg">
+         <box top="174" left="313" width="179" height="179">
+            <part name="0" x="477" y="340"/>
+            <part name="1" x="493" y="300"/>
+            <part name="2" x="427" y="245"/>
+            <part name="3" x="420" y="225"/>
+            <part name="4" x="344" y="203"/>
+            <part name="5" x="313" y="174"/>
+            <part name="6" x="360" y="301"/>
+            <part name="7" x="346" y="332"/>
+            <part name="8" x="350" y="354"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00037030_fore_far_i_ed.jpg">
+         <box top="115" left="486" width="372" height="371">
+            <part name="0" x="823" y="458"/>
+            <part name="1" x="860" y="373"/>
+            <part name="2" x="723" y="264"/>
+            <part name="3" x="709" y="220"/>
+            <part name="4" x="556" y="176"/>
+            <part name="5" x="486" y="115"/>
+            <part name="6" x="583" y="379"/>
+            <part name="7" x="554" y="441"/>
+            <part name="8" x="565" y="487"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00035322-fore-edited.jpg"/>
+      <image file="test/UCSB-IZC00012353-fore-edited.jpg">
+         <box top="94" left="313" width="179" height="179">
+            <part name="0" x="482" y="252"/>
+            <part name="1" x="493" y="211"/>
+            <part name="2" x="426" y="160"/>
+            <part name="3" x="419" y="141"/>
+            <part name="4" x="345" y="122"/>
+            <part name="5" x="313" y="94"/>
+            <part name="6" x="365" y="220"/>
+            <part name="7" x="353" y="252"/>
+            <part name="8" x="356" y="274"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00040997_fore_lig_m_ed.jpg">
+         <box top="50" left="394" width="258" height="258">
+            <part name="0" x="632" y="287"/>
+            <part name="1" x="653" y="228"/>
+            <part name="2" x="558" y="151"/>
+            <part name="3" x="548" y="122"/>
+            <part name="4" x="440" y="92"/>
+            <part name="5" x="394" y="50"/>
+            <part name="6" x="463" y="233"/>
+            <part name="7" x="443" y="277"/>
+            <part name="8" x="449" y="309"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00012443-fore-edited.jpg">
+         <box top="94" left="313" width="179" height="179">
+            <part name="0" x="481" y="252"/>
+            <part name="1" x="493" y="210"/>
+            <part name="2" x="426" y="160"/>
+            <part name="3" x="419" y="140"/>
+            <part name="4" x="346" y="122"/>
+            <part name="5" x="313" y="94"/>
+            <part name="6" x="365" y="220"/>
+            <part name="7" x="352" y="252"/>
+            <part name="8" x="356" y="274"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00037302_fore_tri_i_ed.jpg">
+         <box top="94" left="313" width="179" height="179">
+            <part name="0" x="478" y="257"/>
+            <part name="1" x="493" y="216"/>
+            <part name="2" x="427" y="163"/>
+            <part name="3" x="420" y="144"/>
+            <part name="4" x="346" y="123"/>
+            <part name="5" x="313" y="94"/>
+            <part name="6" x="361" y="221"/>
+            <part name="7" x="347" y="251"/>
+            <part name="8" x="352" y="274"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00030018-fore-edited.jpg">
+         <box top="134" left="293" width="180" height="179">
+            <part name="0" x="457" y="301"/>
+            <part name="1" x="474" y="260"/>
+            <part name="2" x="408" y="206"/>
+            <part name="3" x="401" y="186"/>
+            <part name="4" x="325" y="164"/>
+            <part name="5" x="293" y="134"/>
+            <part name="6" x="339" y="261"/>
+            <part name="7" x="325" y="291"/>
+            <part name="8" x="329" y="314"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00041945_fore_lig_m_ed.jpg">
+         <box top="108" left="509" width="258" height="258">
+            <part name="0" x="747" y="341"/>
+            <part name="1" x="768" y="281"/>
+            <part name="2" x="673" y="206"/>
+            <part name="3" x="663" y="178"/>
+            <part name="4" x="558" y="150"/>
+            <part name="5" x="509" y="108"/>
+            <part name="6" x="580" y="290"/>
+            <part name="7" x="560" y="334"/>
+            <part name="8" x="567" y="367"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00030025-fore-edited.jpg">
+         <box top="137" left="328" width="215" height="215">
+            <part name="0" x="522" y="342"/>
+            <part name="1" x="544" y="294"/>
+            <part name="2" x="465" y="226"/>
+            <part name="3" x="457" y="202"/>
+            <part name="4" x="365" y="173"/>
+            <part name="5" x="328" y="137"/>
+            <part name="6" x="381" y="290"/>
+            <part name="7" x="362" y="326"/>
+            <part name="8" x="367" y="353"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00012480-fore-right-edited.jpg">
+         <box top="64" left="150" width="87" height="86">
+            <part name="0" x="230" y="143"/>
+            <part name="1" x="237" y="124"/>
+            <part name="2" x="205" y="98"/>
+            <part name="3" x="202" y="88"/>
+            <part name="4" x="166" y="78"/>
+            <part name="5" x="150" y="64"/>
+            <part name="6" x="173" y="125"/>
+            <part name="7" x="166" y="140"/>
+            <part name="8" x="168" y="150"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00039615-fore-edited.jpg">
+         <box top="108" left="394" width="258" height="258">
+            <part name="0" x="630" y="349"/>
+            <part name="1" x="653" y="291"/>
+            <part name="2" x="558" y="213"/>
+            <part name="3" x="549" y="183"/>
+            <part name="4" x="438" y="150"/>
+            <part name="5" x="394" y="108"/>
+            <part name="6" x="461" y="293"/>
+            <part name="7" x="441" y="336"/>
+            <part name="8" x="446" y="367"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00012460-fore-edited.jpg">
+         <box top="112" left="261" width="149" height="149">
+            <part name="0" x="401" y="246"/>
+            <part name="1" x="411" y="211"/>
+            <part name="2" x="355" y="168"/>
+            <part name="3" x="350" y="152"/>
+            <part name="4" x="287" y="136"/>
+            <part name="5" x="261" y="112"/>
+            <part name="6" x="304" y="218"/>
+            <part name="7" x="293" y="244"/>
+            <part name="8" x="296" y="262"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00034038-fore-edited.jpg">
+         <box top="79" left="394" width="258" height="258">
+            <part name="0" x="628" y="322"/>
+            <part name="1" x="653" y="264"/>
+            <part name="2" x="559" y="185"/>
+            <part name="3" x="549" y="155"/>
+            <part name="4" x="439" y="122"/>
+            <part name="5" x="394" y="79"/>
+            <part name="6" x="460" y="263"/>
+            <part name="7" x="439" y="306"/>
+            <part name="8" x="445" y="338"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00015024-fore-edited.jpg">
+         <box top="74" left="141" width="86" height="86">
+            <part name="0" x="223" y="149"/>
+            <part name="1" x="227" y="129"/>
+            <part name="2" x="195" y="105"/>
+            <part name="3" x="192" y="96"/>
+            <part name="4" x="156" y="87"/>
+            <part name="5" x="141" y="74"/>
+            <part name="6" x="167" y="135"/>
+            <part name="7" x="162" y="150"/>
+            <part name="8" x="163" y="160"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00034513-fore-edited.jpg">
+         <box top="95" left="474" width="309" height="310">
+            <part name="0" x="756" y="382"/>
+            <part name="1" x="784" y="312"/>
+            <part name="2" x="671" y="219"/>
+            <part name="3" x="659" y="183"/>
+            <part name="4" x="530" y="146"/>
+            <part name="5" x="474" y="95"/>
+            <part name="6" x="555" y="315"/>
+            <part name="7" x="530" y="368"/>
+            <part name="8" x="538" y="406"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00039370_fore_lig_m_ed.jpg">
+         <box top="108" left="480" width="258" height="258">
+            <part name="0" x="723" y="334"/>
+            <part name="1" x="739" y="274"/>
+            <part name="2" x="643" y="202"/>
+            <part name="3" x="633" y="174"/>
+            <part name="4" x="527" y="149"/>
+            <part name="5" x="480" y="108"/>
+            <part name="6" x="556" y="290"/>
+            <part name="7" x="539" y="335"/>
+            <part name="8" x="545" y="367"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00042192_fore_tri_m_ed.jpg">
+         <box top="90" left="305" width="215" height="215">
+            <part name="0" x="503" y="286"/>
+            <part name="1" x="521" y="236"/>
+            <part name="2" x="441" y="173"/>
+            <part name="3" x="433" y="149"/>
+            <part name="4" x="345" y="125"/>
+            <part name="5" x="305" y="90"/>
+            <part name="6" x="362" y="242"/>
+            <part name="7" x="346" y="279"/>
+            <part name="8" x="351" y="306"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00030275-fore-edited.jpg">
+         <box top="45" left="131" width="87" height="86">
+            <part name="0" x="211" y="125"/>
+            <part name="1" x="218" y="105"/>
+            <part name="2" x="186" y="79"/>
+            <part name="3" x="183" y="69"/>
+            <part name="4" x="147" y="59"/>
+            <part name="5" x="131" y="45"/>
+            <part name="6" x="154" y="106"/>
+            <part name="7" x="147" y="121"/>
+            <part name="8" x="149" y="131"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00030146-fore-edited.jpg">
+         <box top="74" left="293" width="180" height="180">
+            <part name="0" x="459" y="240"/>
+            <part name="1" x="474" y="199"/>
+            <part name="2" x="407" y="145"/>
+            <part name="3" x="400" y="125"/>
+            <part name="4" x="325" y="103"/>
+            <part name="5" x="293" y="74"/>
+            <part name="6" x="341" y="202"/>
+            <part name="7" x="326" y="232"/>
+            <part name="8" x="330" y="255"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00037281_fore_tri_i_ed.jpg">
+         <box top="90" left="305" width="215" height="215">
+            <part name="0" x="501" y="289"/>
+            <part name="1" x="521" y="239"/>
+            <part name="2" x="442" y="175"/>
+            <part name="3" x="434" y="151"/>
+            <part name="4" x="345" y="125"/>
+            <part name="5" x="305" y="90"/>
+            <part name="6" x="361" y="242"/>
+            <part name="7" x="344" y="279"/>
+            <part name="8" x="349" y="306"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00030073-fore-edited.jpg">
+         <box top="114" left="313" width="179" height="179">
+            <part name="0" x="479" y="274"/>
+            <part name="1" x="493" y="233"/>
+            <part name="2" x="426" y="181"/>
+            <part name="3" x="420" y="162"/>
+            <part name="4" x="346" y="143"/>
+            <part name="5" x="313" y="114"/>
+            <part name="6" x="363" y="240"/>
+            <part name="7" x="350" y="271"/>
+            <part name="8" x="354" y="294"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00036500_fore_tri_i_ed.jpg">
+         <box top="113" left="233" width="215" height="215">
+            <part name="0" x="435" y="305"/>
+            <part name="1" x="449" y="255"/>
+            <part name="2" x="369" y="193"/>
+            <part name="3" x="361" y="170"/>
+            <part name="4" x="271" y="147"/>
+            <part name="5" x="233" y="113"/>
+            <part name="6" x="294" y="265"/>
+            <part name="7" x="279" y="302"/>
+            <part name="8" x="283" y="329"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00021378-fore-edited.jpg">
+         <box top="114" left="313" width="179" height="179">
+            <part name="0" x="481" y="273"/>
+            <part name="1" x="493" y="231"/>
+            <part name="2" x="426" y="180"/>
+            <part name="3" x="419" y="161"/>
+            <part name="4" x="346" y="142"/>
+            <part name="5" x="313" y="114"/>
+            <part name="6" x="364" y="240"/>
+            <part name="7" x="352" y="271"/>
+            <part name="8" x="355" y="294"/>
+         </box>
+      </image>
+      <image file="test/UCSB-IZC00042210_fore_tri_m_ed.jpg">
+         <box top="66" left="328" width="215" height="215">
+            <part name="0" x="526" y="264"/>
+            <part name="1" x="544" y="214"/>
+            <part name="2" x="464" y="150"/>
+            <part name="3" x="456" y="127"/>
+            <part name="4" x="366" y="101"/>
+            <part name="5" x="328" y="66"/>
+            <part name="6" x="386" y="219"/>
+            <part name="7" x="369" y="255"/>
+            <part name="8" x="373" y="282"/>
          </box>
       </image>
    </images>

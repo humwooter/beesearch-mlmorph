@@ -1,8 +1,9 @@
 #!/bin/bash
 
 # variables - update these with your specific paths
-image_dir="image-examples"
-tps_file="landmark-examples/tps-example.tps"
+image_dir="./bee-image-data/Images/MasterFolder_PhenotypicDivergence2023"
+# tps_file="./bee-image-data/Images/TPS files/all rubicundus TPS (to append)/set19_30sep2020.tps"
+tps_file="./bee-image-data/Images/TPS files/all tripartitus TPS files (to append)/set14_29sep2020.tps"
 
 # step 1: preprocessing
 # splitting images into train and test sets, generating xml files
