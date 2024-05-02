@@ -1,8 +1,19 @@
 #!/bin/bash
 
-# variables - update these with your specific paths
-IMAGE_DIR="../tpsdig/Wing Images/Agapostemon texanus"
-TPS_FILE="../tpsdig/Wing TPS/Agapostemon texanus.tps"
+# IMAGE_DIR="../tpsdig/Wing Images/Agapostemon texanus"
+# TPS_FILE="../tpsdig/Wing TPS/Agapostemon texanus.tps"
+
+# IMAGE_DIR="../tpsdig/Wing Images/Apis mellifera"
+# TPS_FILE="../tpsdig/Wing TPS/Apis mellifera.tps"
+
+# IMAGE_DIR="../tpsdig/Wing Images/Bombus californicus"
+# TPS_FILE="../tpsdig/Wing TPS/Bombus californicus.tps"
+
+# IMAGE_DIR="../tpsdig/Wing Images/Bombus vosnesenskii"
+# TPS_FILE="../tpsdig/Wing TPS/Bombus vosnesenskii.tps"
+
+IMAGE_DIR="../tpsdig/Wing Images/Xylocopa tabaniformis orpifex"
+TPS_FILE="../tpsdig/Wing TPS/Xylocopa tabaniformis orpifex.tps"
 
 # IMAGE_DIR="./image-examples"
 # TPS_FILE="./landmark-examples/tps-example.tps"
@@ -17,10 +28,6 @@ TPS_FILE="../tpsdig/Wing TPS/Agapostemon texanus.tps"
 # python3 visualize_tps_on_images.py -i "$IMAGE_DIR" -t "$TPS_FILE" -o "./training_landmarked_images"
 
 
-
-
-
-
 # Hyperparameters
 THREADS=7
 
@@ -30,16 +37,16 @@ WINDOW_SIZE=$(python3 calculate_window_size.py "$TPS_FILE")
 echo "Ideal window size calculated: $WINDOW_SIZE"
 
 # This is the insensitivity parameter for the SVM training in object detection. A smaller epsilon can make the classifier more sensitive to training errors, potentially leading to a more accurate but less general model.
-EPSILON=0.3
+EPSILON=0.08
 
 # The soft margin parameter C for the SVM. A higher value of C tries to classify all training examples correctly (higher penalty for misclassification), while a lower value allows more misclassifications but can generalize better.
-C_PARAM=5
+C_PARAM=15
 
 # In shape prediction, this defines the depth of the trees in the regression model. Deeper trees can model more complex patterns but may overfit on smaller or less diverse datasets.
-TREE_DEPTH=5
+TREE_DEPTH=20
 
 # Specifies the depth of the cascade in the shape predictor. Each level of the cascade refines the predictions from the previous level, allowing for more precise landmarking.
-CASCADE_DEPTH=50
+CASCADE_DEPTH=20
 
 # The regularization parameter in the shape predictor. It controls the trade-off between the model's complexity and the amount it learns from the training data. Lower values lead to more regularization (simpler models).
 NU=0.01
@@ -48,10 +55,10 @@ NU=0.01
 OVERSAMPLING=50
 
 # The number of random splits used for testing during training of the shape predictor. More splits can provide a better estimate of model performance but increase computational cost.
-TEST_SPLITS=100
+TEST_SPLITS=20
 
 # Defines the size of the pool of pixel intensity differences features used to train the shape predictor. A larger pool provides a richer set of features but increases the complexity and potentially the overfitting risk.
-FEATURE_POOL_SIZE=500
+FEATURE_POOL_SIZE=300
 
 # Specifies the number of regression trees used in each cascade level of the shape predictor. More trees can improve the accuracy but also increase the model size and inference time.
 NUM_TREES=400
