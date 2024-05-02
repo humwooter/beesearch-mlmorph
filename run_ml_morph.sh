@@ -51,8 +51,8 @@ python3 detector_trainer.py -d train.xml -t test.xml -n 8 -w $WINDOW_SIZE -e 0.0
 # step 3: training shape predictors
 # training the shape predictor model
 echo "training shape predictor..."
-# runs shape training with 8 threads, tree depth 5, cascade depth 20, nu 0.08, oversampling 200, 25 test splits, feature pool size 700, and 400 trees
-python3 shape_trainer.py -d train.xml -t test.xml -th 8 -dp 5 -c 20  -nu 0.08 -os 200 -s 25 -f 800 -n 800
+# runs shape training with 8 threads, tree depth 6, cascade depth 20, nu 0.08, oversampling 200, 25 test splits, feature pool size 700, and 400 trees
+python3 shape_trainer.py -d train.xml -t test.xml -th 8 -dp 7 -c 22  -nu 0.1 -os 200 -s 25 -f 900 -n 1000
 
 # step 4: predicting landmarks
 # predicting landmarks on new images
