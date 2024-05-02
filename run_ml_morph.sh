@@ -21,13 +21,17 @@ python3 preprocessing.py -i "$IMAGE_DIR" -t "$TPS_FILE"
 # echo "Visualizing TPS coordinates on images..."
 # python3 visualize_tps_on_images.py -i "$IMAGE_DIR" -t "$TPS_FILE" -o "./training_landmarked_images"
 
+# Calculate ideal window size
+echo "Calculating ideal window size..."
+WINDOW_SIZE=$(python3 calculate_window_size.py "$TPS_FILE")
+echo "Ideal window size calculated: $WINDOW_SIZE"
+
 
 
 # step 2: training object detectors
 # training the object detector model
 echo "training object detector..."
-python3 detector_trainer.py -d train.xml -t test.xml -n 8 -w 600 -e 0.001 -c 15
-
+python3 detector_trainer.py -d train.xml -t test.xml -n 8 -w $WINDOW_SIZE -e 0.001 -c 15
 
 # step 3: training shape predictors
 # training the shape predictor model
