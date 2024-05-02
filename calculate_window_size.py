@@ -4,14 +4,19 @@ import re
 def calculate_window_size(tps_file_path):
     x_coords = []
     y_coords = []
-    
+    scale = 1.0  # Default scale
+
     with open(tps_file_path, 'r') as file:
         for line in file:
-            match = re.match(r'^(\d+\.\d+)\s+(\d+\.\d+)$', line.strip())
-            if match:
-                x, y = map(float, match.groups())
-                x_coords.append(x)
-                y_coords.append(y)
+            line = line.strip()
+            if line.startswith("SCALE="):
+                scale = float(line.split('=')[1])
+            else:
+                match = re.match(r'^(\d+\.\d+)\s+(\d+\.\d+)$', line)
+                if match:
+                    x, y = map(float, match.groups())
+                    x_coords.append(x * scale)
+                    y_coords.append(y * scale)
     
     if x_coords and y_coords:
         min_x = min(x_coords)
@@ -22,7 +27,7 @@ def calculate_window_size(tps_file_path):
         width = max_x - min_x
         height = max_y - min_y
         
-        buffer_percent = 0.20
+        buffer_percent = 0.05
         window_size = max(width, height) * (1 + buffer_percent)
         return round(window_size)
     else:

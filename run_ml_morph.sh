@@ -3,11 +3,11 @@
 # IMAGE_DIR="../tpsdig/Wing Images/Agapostemon texanus"
 # TPS_FILE="../tpsdig/Wing TPS/Agapostemon texanus.tps"
 
-# IMAGE_DIR="../tpsdig/Wing Images/Apis mellifera"
-# TPS_FILE="../tpsdig/Wing TPS/Apis mellifera.tps"
+IMAGE_DIR="../tpsdig/Wing Images/Apis mellifera"
+TPS_FILE="../tpsdig/Wing TPS/Apis mellifera.tps"
 
-IMAGE_DIR="../tpsdig/Wing Images/Bombus californicus"
-TPS_FILE="../tpsdig/Wing TPS/Bombus californicus.tps"
+# IMAGE_DIR="../tpsdig/Wing Images/Bombus californicus"
+# TPS_FILE="../tpsdig/Wing TPS/Bombus californicus.tps"
 
 # IMAGE_DIR="../tpsdig/Wing Images/Bombus vosnesenskii"
 # TPS_FILE="../tpsdig/Wing TPS/Bombus vosnesenskii.tps"
@@ -55,7 +55,7 @@ NU=0.1
 OVERSAMPLING=100
 
 # The number of random splits used for testing during training of the shape predictor. More splits can provide a better estimate of model performance but increase computational cost.
-TEST_SPLITS=30
+TEST_SPLITS=50
 
 # Defines the size of the pool of pixel intensity differences features used to train the shape predictor. A larger pool provides a richer set of features but increases the complexity and potentially the overfitting risk.
 FEATURE_POOL_SIZE=1000
