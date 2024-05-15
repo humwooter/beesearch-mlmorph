@@ -28,9 +28,7 @@ ap.add_argument("-s", "--test-splits", type=int, default=20,
     help="number of test splits (default = 20)", metavar='')
 ap.add_argument("-f", "--feature-pool-size", type=int, default=500,
     help="choice of feature pool size (default = 500)", metavar='')
-
-ap.add_argument("-dp", "--tree-depth", type=int, default=5, help="choice of tree depth (default = 5)", metavar='')
-ap.add_argument("-n", "--num-trees", type=int, default=600,
+ap.add_argument("-n", "--num-trees", type=int, default=500,
     help="number of regression trees (default = 500)", metavar='')
 args = vars(ap.parse_args())
 
